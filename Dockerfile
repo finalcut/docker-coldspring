@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM debian:wheezy
 MAINTAINER finalcut bill@rawlinson.us
 
 ENV REFRESHED_AT 2014_08_20_1
