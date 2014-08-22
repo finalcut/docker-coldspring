@@ -1,4 +1,4 @@
 docker-coldspring
 =================
 
-Docker container that contains coldspring 2.0-alpha1 (latest release). exposed at /tmp/coldspring
+Docker container that contains coldspring 1-2 final (not the latest release). exposed at /tmp/coldspring
